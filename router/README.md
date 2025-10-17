@@ -25,4 +25,4 @@ A sleek, Visual Studio Code-themed developer portfolio built with React and Tail
 
 - [LinkedIn](https://www.linkedin.com/in/abdulwahab-kayode-b99a10337/)  
 - [GitHub](https://github.com/yourusername)  
-- [Email](mailto:youremail@example.com)
+
