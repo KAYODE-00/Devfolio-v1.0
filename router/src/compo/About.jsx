@@ -3,7 +3,7 @@ import React from "react";
 function About(props) {
   return (
     <>
-      <div className="place-self-center  w-full break-word text-xs md:text-sm lg:text-base xl:text-lg px-5 md:px-23 ">
+      <div className="place-self-center  w-full break-wor text-xs md:text-sm lg:text-base xl:text-lg px-5 md:px-23 ">
         <div
           className={`  text-[#706c6cb3] ml-3 mt-10 md:mt-25 flex flex-col gap-5  `}
         >
