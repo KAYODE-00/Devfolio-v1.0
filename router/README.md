@@ -1,12 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+💻 VS Code-Inspired Developer Portfolio
 
-Currently, two official plugins are available:
+A sleek, Visual Studio Code-themed developer portfolio built with React and Tailwind CSS. It mimics the VS Code interface to creatively showcase skills, projects, and contact info — ideal for front-end developers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+- Developer-friendly VS Code UI
+- Tab-based navigation (Home, About, Projects, Contact)
+- Responsive layout for all screen sizes
+- Terminal-style footer (optional)
+- Styled with Tailwind CSS and developer icons
 
-## Expanding the ESLint configuration
+🛠 Tech Stack
+- React
+- Tailwind CSS
+- Boxicons / Devicon
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📂 Pages
+- Home.html – Introduction and summary
+- About.css – Skills and background
+- Projects.js – Project gallery
+- Contacts.jsx – Contact form and social links
+
+📬 Contact
+
+- [LinkedIn](https://linkedin.com/in/yourname)  
+- [GitHub](https://github.com/yourusername)  
+- [Email](mailto:youremail@example.com)
